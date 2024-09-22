@@ -1,5 +1,5 @@
 In the Option Project you can see a work I have created during my master's degree in Quantitative Finance. In there, you can find two R files: one is for the functions, one is the main.
-The excel file is the original dataset, and the pdf file is a comment to the work.
+The excel file is the original dataset, and the pdf file is a comment to the work. Please download the entire foulder and run only the main file, everything will work.
 
 Here is what I had to do:
 
